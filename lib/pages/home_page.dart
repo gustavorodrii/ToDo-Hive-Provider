@@ -150,7 +150,7 @@ class _HomePageState extends State<HomePage> {
                 return const Padding(
                   padding: EdgeInsets.symmetric(horizontal: 15),
                   child: Divider(
-                    height: 5,
+                    height: 1,
                     color: Colors.grey,
                     thickness: 1,
                   ),
